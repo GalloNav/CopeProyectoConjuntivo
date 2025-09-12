@@ -13,7 +13,7 @@ namespace CopeProyectoConjuntivo
     public partial class Form1 : Form
     {
 
-        //Hola Mundo x2
+        //Si llega?
         public Form1()
         {
             InitializeComponent();
