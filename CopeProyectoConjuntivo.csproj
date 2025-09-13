@@ -79,5 +79,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CopeProyectoConjuntivo.Core\CopeProyectoConjuntivo.Core.csproj">
+      <Project>{aa47fabd-578b-48fa-a627-daccb7f01879}</Project>
+      <Name>CopeProyectoConjuntivo.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
